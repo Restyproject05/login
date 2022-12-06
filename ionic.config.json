@@ -1,0 +1,7 @@
+{
+  "name": "apk_crud",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
